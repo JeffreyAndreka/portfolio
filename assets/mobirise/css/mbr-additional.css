@@ -8,10 +8,28 @@
   color: #ffffff;
 }
 #header2-0 P {
-  color: #b8312f;
+  color: #2c2c2c;
 }
 #header2-0 H1 {
-  color: #000000;
+  color: #ffffff;
+}
+#menu-p .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-p .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-m .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-m .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #menu-k .mbr-brand__name {
   font-size: 16px;
@@ -32,14 +50,5 @@
   background: #2c2c2c;
 }
 #menu-k .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-m .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-m.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-m .mbr-navbar__hamburger {
   color: #ffffff;
 }
