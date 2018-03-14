@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio Jeffrey Andréka 2018-clone",
-    "currentPage": "index.html",
+    "currentPage": "tekeningen.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,7 +12,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 41,
+    "uniqCompNum": 42,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n\n\n",
@@ -204,7 +204,7 @@
       "settings": {
         "meta_descr": "over",
         "title": "over",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -383,7 +383,7 @@
       "settings": {
         "meta_descr": "Tekeningen",
         "title": "Tekeningen",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -702,6 +702,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-13"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/beautiful-gardens-2-1-1400x999.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-15"
         }
       ]
     }
