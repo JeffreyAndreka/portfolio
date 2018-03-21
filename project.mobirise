@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio Jeffrey Andréka 2018-clone",
-    "currentPage": "index.html",
+    "currentPage": "tekeningen.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -402,7 +402,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-hertogenbosch-bitmap.png",
+              "src": "@PROJECT_PATH@/assets/images/s-hertogenbosch-bitmap-1.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -514,7 +514,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/beautiful-gardens.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beautiful-gardens-1.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -546,7 +546,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/modeltekening.jpg",
+              "src": "@PROJECT_PATH@/assets/images/modeltekening-1.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -610,7 +610,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/link-wray.png",
+              "src": "@PROJECT_PATH@/assets/images/link-wray-1.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -642,7 +642,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/beautiful-gardens-2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beautiful-gardens-3.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
