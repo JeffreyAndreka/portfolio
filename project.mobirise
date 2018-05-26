@@ -12,8 +12,8 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 47,
-    "versionPublish": "4.6.5",
+    "uniqCompNum": 50,
+    "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n\n\n",
     "robotsSwitcher": "on",
@@ -23,7 +23,8 @@
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-114951527-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-114951527-1');\r\n</script>\r\n",
     "cookiesAlert": "Wij maken op deze website gebruik van cookies. Wilt u meer informatie, lees hier over <a href='cookies.html'>cookies</a>.",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -707,7 +708,15 @@
                 "thumb": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-iii-800x1139.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/de-bronzen-sleutel-tekening1-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/de-bronzen-sleutel-tekening1-1-800x1182.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
               }
             ]
           },
@@ -717,6 +726,81 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-w"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sax.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "sax - 29,7 cm x 42 cm - grafiet op papier<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1c",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/paljaske-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paljaske-1-800x1191.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/paljaske-3-.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paljaske-3-800x1196.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/paljaske-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paljaske-2-800x1180.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1d"
         }
       ]
     }
