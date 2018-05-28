@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "portfolio Jeffrey Andréka 2018-clone",
-    "currentPage": "tekeningen.html",
+    "name": "nederlands",
+    "currentPage": "copyright-nl.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,12 +12,12 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 50,
+    "uniqCompNum": 54,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "https://jeffreyandreka.github.io/portfolio/",
+    "siteUrl": "https://jeffreyandreka.github.io/portfolio-nl/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "true",
@@ -48,11 +48,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "13px"
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": false,
+            "logo": true,
+            "showBrand": true,
             "showButtons": true,
             "sticky": false,
             "collapsed": false,
@@ -65,11 +68,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/engelse-vlag-1.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -77,7 +81,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nederlands/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH</a>",
           "_tags": [
             "Theme"
           ],
@@ -143,11 +147,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "13px"
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": false,
+            "logo": true,
+            "showBrand": true,
             "showButtons": true,
             "sticky": false,
             "collapsed": false,
@@ -160,11 +167,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/engelse-vlag-1.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -172,7 +180,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nederlands/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH</a>",
           "_tags": [
             "Theme"
           ],
@@ -219,11 +227,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "13px"
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": false,
+            "logo": true,
+            "showBrand": true,
             "showButtons": true,
             "sticky": false,
             "collapsed": false,
@@ -236,11 +247,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/engelse-vlag-1.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -248,7 +260,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nederlands/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH</a>",
           "_tags": [
             "Theme"
           ],
@@ -295,11 +307,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "13px"
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": false,
+            "logo": true,
+            "showBrand": true,
             "showButtons": true,
             "sticky": false,
             "collapsed": false,
@@ -312,11 +327,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/engelse-vlag-1.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -324,7 +340,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nederlands/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH</a>",
           "_tags": [
             "Theme"
           ],
@@ -379,7 +395,7 @@
           "_anchor": "gallery1-l"
         },
         {
-          "text": "Deze tekeningen zijn gemaakt in het donker of met een blinddoek. Ik wou experimenteren met mijn manier van tekenen en mijn ratio van wat een goede tekening was. Uiteindelijk kwam ik tot de conclusie dat het toch beter is van bij dat ratio te blijven, in plaats van blindelings te krabbelen en de betekenis ervan eender te laten.&nbsp;",
+          "text": "Deze tekeningen zijn gemaakt in het donker of met een blinddoek. Ik wou experimenteren met mijn manier van tekenen en mijn ratio van wat een goede tekening was. Uiteindelijk kwam ik tot de conclusie dat het toch beter is van bij dat ratio te blijven, in plaats van blindelings te krabbelen en later een interpretatie te vormen. Ik wou de ervaring van naar iemand anders zijn tekening kijken met mijn eigen werk bekomen door het fysieke ontstaan van de tekening niet waar te nemen.",
           "_tags": [
             "Theme"
           ],
@@ -438,11 +454,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "13px"
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": false,
+            "logo": true,
+            "showBrand": true,
             "showButtons": true,
             "sticky": false,
             "collapsed": false,
@@ -455,11 +474,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/engelse-vlag-1.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -467,7 +487,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nederlands/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH</a>",
           "_tags": [
             "Theme"
           ],
@@ -801,6 +821,86 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-1d"
+        }
+      ]
+    },
+    "copyright-nl.html": {
+      "settings": {
+        "meta_descr": "copyright nederlands",
+        "title": "copyright nederlands",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">TEKENINGEN</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"blindetekeningen.html\">BLINDE TEKENINGEN</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">OVER</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/engelse-vlag-1.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nederlands/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1f"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "<p>Copyright&nbsp; &nbsp;</p>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1g"
+        },
+        {
+          "text": "<p>Alles op deze site is eigendom van Jeffrey Andréka en mag nie gereproduceerd of gemanipuleerd worden zonder mijn toestemming. Hebt u vragen, contacteer mij via e-mail: <a href=\"mailto:andreka.jeffrey@gmail.com\">andreka.jeffrey@gmail.com</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1h"
         }
       ]
     }
